@@ -2,10 +2,10 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Meng-Zhe Yang (Jeremy)
+  display: Meng-Zhe Yang 
   given: Meng-Zhe
   family: Yang
-  alternate: ''  # Example: 王伟
+  alternate: 'Jeremy'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
